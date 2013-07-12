@@ -10,4 +10,5 @@ doc/html.xsl
 doc/jemalloc.xml
 doc/manpages.xsl
 VERSION
+lib/
 
