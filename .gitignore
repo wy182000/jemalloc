@@ -1,0 +1,13 @@
+include/
+Makefile
+config.log
+config.status
+config.stamp
+*.d
+*.o
+test/jemalloc_test.h
+doc/html.xsl
+doc/jemalloc.xml
+doc/manpages.xsl
+VERSION
+
